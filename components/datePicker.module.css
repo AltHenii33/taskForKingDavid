@@ -1,0 +1,28 @@
+.error {
+    /* position: absolute; */
+    /* position: relative; */
+    bottom: -16px;
+    left: 0;
+    color: red;
+    font-size: 12px;
+    position: absolute;
+}
+.form {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+.formElement {
+    margin: 10px;
+}
+.formContainer {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+
+}
+
+

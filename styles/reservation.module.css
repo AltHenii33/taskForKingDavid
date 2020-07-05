@@ -1,0 +1,18 @@
+/* .appWrapper {
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    Justify-content: center;
+    align-items: center;
+}
+
+.lineButtons {
+    display: flex;
+    flex-direction: row;
+    Justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.appWrapper.lineButtons {
+    Justify-content: space-around
+} */
